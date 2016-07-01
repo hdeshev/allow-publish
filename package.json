@@ -1,11 +1,15 @@
 {
   "name": "allow-publish",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Flip the private option in package.json and make the package publishable.",
   "main": "index.js",
   "bin": {
       "allow-publish": "index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Hristo Deshev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdeshev/allow-publish"
+  }
 }
