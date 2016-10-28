@@ -4,7 +4,8 @@
   "description": "Flip the private option in package.json and make the package publishable.",
   "main": "index.js",
   "bin": {
-      "allow-publish": "index.js"
+      "allow-publish": "index.js",
+      "remove-prepublish": "remove-prepublish.js"
   },
   "author": "Hristo Deshev",
   "license": "MIT",
