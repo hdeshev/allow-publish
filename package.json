@@ -1,6 +1,6 @@
 {
   "name": "allow-publish",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Flip the private option in package.json and make the package publishable.",
   "main": "index.js",
   "bin": {
